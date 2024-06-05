@@ -1,0 +1,103 @@
+body {
+    background-color: #F0E4E0;
+}
+
+header {
+  display: flex;
+  font-family: Scope One;
+  height: 40px;
+  background-color: #F0E4E0;
+  padding: 15px;
+  color: #1359ee;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+  h1 {
+    display: flex;
+    font-family: Chase Zen Paris;
+    font-size: 70px;
+    color: #1359ee;
+justify-content: center;
+}
+
+section {
+  display: flex;
+  justify-content: flex-start;
+
+  p {
+    font-size: 22px;
+    font-family: Source Sans Pro;
+    color: #1359ee;
+  }
+  
+  p1 {
+    font-size: 22px;
+    font-family: Scope One;
+    color: #1359ee;
+    padding: 1%;
+  }
+ 
+  p2 {
+    font-size: 30px;
+    font-family: Scope One;
+    color: #1359ee; 
+    padding: 1%;
+    text-align: center;
+  }
+}
+
+.EBL {
+display: flex;
+justify-content: flex-end;
+padding: 2%;
+margin: 10px;
+}
+
+button {
+  display: flex;
+  color: #FFC457;
+  background-color: #F054F3;
+  justify-content:  center;
+  align-items: center;
+  padding: 1%
+
+}
+
+footer {
+  .footernav {
+    display: flex;
+    height: 348x;
+    background-color: #F0E4E0;
+  }
+
+h2 {
+  display: flex;
+  font-family: chase zen paris;
+  font-size: 40px;
+  justify-content: center;      
+  color: #1359ee;
+ }
+
+h3 {
+  display: flex;
+  font-family: Scope One;
+  height: 30px;
+  justify-content: center;
+  color: #1359ee;
+ }
+
+ h4 {
+  display: flex;
+  font-family: Scope One;
+  height: 30px;
+  justify-content: center;
+  color: #1359ee;
+ }
+
+.links {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+}
